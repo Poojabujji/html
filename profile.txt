@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>profile page</title>
+<body text="green"align="center">
+<h1>Poojs.T</h1>
+<h2>personal profile</h2>
+<img src="IMG-20181210-WA0010.JPG"width=100height=100>
+<p>hiiii..... I'm Pooja,I'm Studying inMCA 2nd Year in RVR&JC College,And I am very Interested in Graphical Degin </p>
+<h3>My skills</h3>
+<ul>
+<li>Html</li>
+<li>MS.Office</li>
+<li>Java</li>
+</ul>
+<h4>Social Media</h4>
+catch me on INSTAGRAM-----<a herf="http://instagram.com/pooja_11__">@pooja_11__</a>
+</body>
+</head>
+</html>
+
